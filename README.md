@@ -4,4 +4,7 @@
 
 "I am excited to share the completion of my latest web development project – a dynamic and visually appealing landing page created from scratch using HTML and CSS. Throughout this project, I successfully applied fundamental HTML and CSS skills to structure the webpage, implement responsive design, and craft a user-friendly layout. I focused on key elements such as columns, sections, headers, and footers while incorporating design principles like alignment, color palettes, and typography. The project allowed me to unleash my creativity, resulting in an impressive and cohesive design. I paid meticulous attention to details such as padding, boxes, and avoiding CSS overlapping issues, ensuring a seamless user experience. Overall, this landing page project has not only enhanced my coding skills but also honed my ability to blend technical expertise with creative design to deliver a compelling web experience."
 
-code reference and the landing page is uploaded..
+ I have used html for frontend and the program is uploaded in the the: index.html please refer it.
+ And for design i used css and the css program is uploaded in the: style.css and i used some photos and the photos is uploaded in the image folder
+
+ For reference .the photos is uploaded in the task1 refrence photos folder refer it.
